@@ -3,8 +3,8 @@
 
 ##
 
-### Oque Aprendi nesse projeto
+### I learned in this project about
 1. Es6 modules
-2. Um pouco a mais sobre DOM
+2. A little more about DOM
 3. Arrow function
 4. Object Literals
